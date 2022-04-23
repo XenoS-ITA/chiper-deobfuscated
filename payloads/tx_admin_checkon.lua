@@ -1,0 +1,1 @@
+SetConvar("txAdmin-checkPlayerJoin", "true")
